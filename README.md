@@ -7,4 +7,5 @@ Features:
 - open files to transfer through the serial port;
 - editing input data in real time with a pause of 5 seconds;
 - various colors for text entered from the keyboard and the serial port;
-- unlimited number of lines in the console window.
+- unlimited number of lines in the console window;
+- restore the last settings at startup.
